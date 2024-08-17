@@ -5,7 +5,7 @@ import { Metadata } from "next"
 interface PageProps {
     searchParams: {q: string}
 }
-export function generateMetaData({searchParams: {q}}: PageProps): Metadata {
+export function generateMetadata({searchParams: {q}}: PageProps): Metadata {
     return {
         title: `Search results for "${q}"`
     }
