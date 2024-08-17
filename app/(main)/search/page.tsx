@@ -1,10 +1,11 @@
 import TrendsSidebar from "@/components/TrendsSidebar"
 import SearchResults from "./SearchResults"
+import { Metadata } from "next"
 
 interface PageProps {
     searchParams: {q: string}
 }
-export function generateMetaData({searchParams: {q}}: PageProps) {
+export function generateMetaData({searchParams: {q}}: PageProps): Metadata {
     return {
         title: `Search results for "${q}"`
     }
