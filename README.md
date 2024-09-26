@@ -32,7 +32,7 @@
 - Notifications for likes, comments, and follows
 
 ### Others ###
-- Post bookmariking
+- Post bookmarking
 - Real time chat between users
 
 
