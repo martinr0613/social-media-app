@@ -28,7 +28,7 @@
 - Feed which contains posts from followed users only
 - Infinite loading
 
-### Notifications ###
+## Notifications ###
 - Notifications for likes, comments, and follows
 
 ## Others ##
