@@ -33,7 +33,7 @@
 
 ### Others ###
 - Post bookmariking
-- React time chat between users
+- Real time chat between users
 
 
 
